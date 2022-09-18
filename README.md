@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/775326651780825088/1021046943998279830/fleurwlp.gif)
+![](https://i.pinimg.com/originals/ab/01/90/ab0190704970e5935e0897b542469ff4.jpg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soriquato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
